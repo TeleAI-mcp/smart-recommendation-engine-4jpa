@@ -1,2 +1,3 @@
-# smart-recommendation-engine-4jpa
-AI-powered recommendation system for modern development workflows
+# Smart Recommendation Engine 4Jpa
+
+A AI-powered recommendation system for modern development workflows.
